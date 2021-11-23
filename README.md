@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Dinithi GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Dinithi-Hasanika&show_icons=true)
+![Dinithi GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Dinithi-Hasanika&show_icons=true&theme=cobalt)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinithi-Hasanika&layout=compact&theme=cobalt)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinithi-Hasanika)
+
