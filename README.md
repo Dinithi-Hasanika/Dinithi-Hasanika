@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Dinithi Hasanika
-## I work as a Software Engineer @ WSO2
-## I was graduated from Department of Computer Engineering, Faculty of Engineering, UniverSity of Peradeniya
+👩‍💻 Software Engineer @ WSO2
+
+👩‍🎓 Graduated from Department of Computer Engineering, Faculty of Engineering, UniverSity of Peradeniya
 
 <!--
 **Dinithi-Hasanika/Dinithi-Hasanika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
