@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Dinithi GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Dinithi-Hasanika&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinithi-Hasanika)
