@@ -3,6 +3,8 @@
 
 👩‍🎓 Graduated from Department of Computer Engineering, Faculty of Engineering, University of Peradeniya
 
+👀 ![](https://komarev.com/ghpvc/?username=Dinithi-Hasanika&style=flat-square)
+
 <!--
 **Dinithi-Hasanika/Dinithi-Hasanika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
